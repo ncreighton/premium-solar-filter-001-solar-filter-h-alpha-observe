@@ -1,0 +1,2 @@
+# premium-solar-filter-001-solar-filter-h-alpha-observe
+Tired of juggling scattered notes, filter specs, and H-alpha tuning logs every time you chase solar activity? The Solar Filter &amp; H-Alpha Observe Craft Hub turns your chaos into a streamlined command center.  This Notion template centralizes every detail of your solar observation workflow—from filter configurations and H-alpha pressure tuning to ses
